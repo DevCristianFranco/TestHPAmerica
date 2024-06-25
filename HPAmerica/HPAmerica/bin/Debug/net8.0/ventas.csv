@@ -1,0 +1,16 @@
+FacturaID,Producto,Cantidad,Fecha,ClienteID,Region
+1,Laptop,5,2024-06-01,1,USA
+2,Desktop,3,2024-06-02,2,Canada
+3,Mouse,10,2024-06-03,3,BMM
+4,Keyboard,4,2024-06-04,4,USA
+5,Monitor,2,2024-06-05,5,Canada
+6,Office Suite,7,2024-06-06,6,BMM
+7,Antivirus,1,2024-06-07,7,USA
+8,Operating System,6,2024-06-08,8,Canada
+9,Design Software,3,2024-06-09,1,BMM
+10,Accounting Software,8,2024-06-10,2,USA
+11,Consultoría,2,2024-06-11,3,Canada
+12,Soporte Técnico,5,2024-06-12,4,BMM
+13,Mantenimiento,7,2024-06-13,5,USA
+14,Instalación,9,2024-06-14,6,Canada
+15,Capacitación,4,2024-06-15,7,BMM
